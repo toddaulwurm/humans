@@ -1,0 +1,13 @@
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\bin\Debug\netcoreapp3.1\humans.exe
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\bin\Debug\netcoreapp3.1\humans.deps.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\bin\Debug\netcoreapp3.1\humans.runtimeconfig.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\bin\Debug\netcoreapp3.1\humans.runtimeconfig.dev.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\bin\Debug\netcoreapp3.1\humans.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\bin\Debug\netcoreapp3.1\humans.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\obj\Debug\netcoreapp3.1\humans.csprojAssemblyReference.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\obj\Debug\netcoreapp3.1\humans.AssemblyInfoInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\obj\Debug\netcoreapp3.1\humans.AssemblyInfo.cs
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\obj\Debug\netcoreapp3.1\humans.csproj.CoreCompileInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\obj\Debug\netcoreapp3.1\humans.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\obj\Debug\netcoreapp3.1\humans.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\LanguageFund\humans\obj\Debug\netcoreapp3.1\humans.genruntimeconfig.cache
